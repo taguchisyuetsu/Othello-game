@@ -1,0 +1,2 @@
+# Othello-game
+》honorable
